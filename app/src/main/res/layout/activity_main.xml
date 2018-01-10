@@ -32,13 +32,6 @@
 
 
 
-    <EditText
-        android:layout_width="143dp"
-        android:layout_height="wrap_content"
-        android:inputType="textPersonName"
-        android:text="Name"
-        android:ems="10"
-        android:id="@+id/editText" />
 
 
 </LinearLayout>
