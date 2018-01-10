@@ -40,10 +40,5 @@
         android:ems="10"
         android:id="@+id/editText" />
 
-    <AnalogClock
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/analogClock"
-        android:layout_gravity="center_horizontal" />
 
 </LinearLayout>
