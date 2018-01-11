@@ -18,7 +18,7 @@
         android:text="Helssslo World!"
         android:textSize="90px"
         android:textColor="@color/colorPrimaryDark"
-
+android:id="@+id/txt"
        >
 
     </TextView>
