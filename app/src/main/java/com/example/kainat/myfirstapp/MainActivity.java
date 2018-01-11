@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
        setContentView(R.layout.activity_main);
-       Button btn= (Button) findViewById(R.id.button);
+       Button btna= (Button) findViewById(R.id.button);
        TextView txt=(TextView) findViewById(R.id.txt);
     }
 }
